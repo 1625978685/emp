@@ -1,3 +1,3 @@
 public class Wlj{
-   private int id;
+   private int id;//这是Id
 }
